@@ -1,2 +1,2 @@
-# Dev-C-
-Mathematical and Logical Operations
+# Dev-C++
+Mathematical and Logical Operations.
